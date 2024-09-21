@@ -57,13 +57,6 @@ Welcome to **Health Companion**—your personal health assistant! This applicati
 
    The app should now be running on `http://localhost:8501`.
 
-## ⚙️ Configuration
-
-Ensure that you have Google Sheets access set up correctly. Here’s how to do it:
-
-1. Set up a **Google Cloud Project** and enable Google Sheets API.
-2. Download the **credentials.json** file and place it in your project directory.
-3. Make sure the `.env` file is configured with appropriate keys for accessing the Sheets.
 
 ## 🧪 Usage
 
